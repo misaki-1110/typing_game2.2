@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <p>こんにちは</p>
+    <h1>くま</h1>
   </body>
 </html>
