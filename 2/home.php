@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <h1>くま</h1>
+    <h1>ねこ</h1>
   </body>
 </html>
