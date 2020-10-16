@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <h1>ねこ</h1>
+    <h1>犬</h1>
   </body>
 </html>
